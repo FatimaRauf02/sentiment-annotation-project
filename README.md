@@ -1,6 +1,6 @@
 # Customer Review Sentiment Annotation Dataset
 
-A multi-layer sentiment annotation project on 100 customer product reviews, built as a data annotation portfolio project demonstrating professional-grade labeling, guideline design, sarcasm detection, and quality assurance.
+A multi-layer sentiment annotation project on 100 customer product reviews, built as a data annotation project demonstrating professional-grade labeling, guideline design, sarcasm detection and quality assurance.
 
 ---
 
@@ -149,10 +149,5 @@ shipping_df = df[df['aspect'].str.contains('Shipping')]
 review_needed = df[df['confidence'] == 'Medium']
 ```
 
----
 
-## Author
-
-This dataset was created as a portfolio project for data annotation, AI training, and AI model evaluation roles.
-Annotation performed following professional NLP annotation standards with documented inter-annotator agreement.
 
