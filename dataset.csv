@@ -1,0 +1,101 @@
+id,review,sentiment,confidence,sarcasm,aspect,annotator_notes
+1,Amazing quality and fast delivery. Will definitely order again.,Positive,High,No,Product Quality + Shipping,Clear positive on two aspects
+2,The product works as expected. Nothing more nothing less.,Neutral,High,No,Product Quality,Purely factual; meets expectations but no praise
+3,Very disappointed with this purchase. Complete waste of money.,Negative,High,No,Value for Money,Strong negative signal
+4,Customer support was incredibly helpful and resolved my issue within minutes.,Positive,High,No,Customer Service,Specific praise with detail
+5,I received the package yesterday.,Neutral,High,No,Shipping,Factual statement; no sentiment expressed
+6,The item broke after one day of use. Absolutely terrible.,Negative,High,No,Product Quality + Durability,Explicit negative + emotional word
+7,Excellent value for money. Best purchase I made this year.,Positive,High,No,Value for Money,Superlative language; strong positive
+8,The color is blue and the size is medium.,Neutral,High,No,Product Features,Pure description; zero sentiment
+9,Terrible experience overall. Never buying from this seller again.,Negative,High,No,Overall Experience,Strong negative intent signal
+10,Highly recommended! Five stars all the way.,Positive,High,No,Overall Experience,Recommendation = strong positive
+11,Oh sure the product is AMAZING. Fell apart in two days.,Negative,High,Yes,Product Quality + Durability,Sarcasm in opener; actual meaning is negative
+12,Fast shipping but the product quality is very poor.,Negative,Medium,No,Shipping + Product Quality,Mixed but negative dominates due to core product failure
+13,The packaging was intact and the item arrived safely.,Neutral,High,No,Shipping + Packaging,Factual delivery report; no strong feeling
+14,I love this product! Using it every single day.,Positive,High,No,Product Quality,Emotional word + behavioral evidence
+15,Battery life is terrible. Dies within 3 hours.,Negative,High,No,Product Features,Specific flaw with evidence
+16,Works fine I guess.,Neutral,Medium,No,Product Quality,Minimal approval; no real enthusiasm
+17,Absolutely stunning design. Looks even better in person.,Positive,High,No,Product Design,Superlative + exceeds expectation signal
+18,The instructions are in the box.,Neutral,High,No,Product Features,Factual; no opinion expressed
+19,Worst product I have ever bought in my entire life.,Negative,High,No,Overall Experience,Superlative negative
+20,Decent product for the price.,Neutral,Medium,No,Value for Money,Mild positive leaning neutral; no strong praise
+21,I am beyond happy with this purchase. Exceeded all my expectations.,Positive,High,No,Overall Experience,Strong emotional positive
+22,Yeah right this charger is so durable. Stopped working after a week.,Negative,High,Yes,Product Quality + Durability,Sarcastic opener confirmed by negative fact
+23,The seller responded promptly to my question.,Positive,Medium,No,Customer Service,Positive service indicator though mild
+24,Product arrived in damaged packaging.,Negative,High,No,Shipping + Packaging,Objective negative fact
+25,I ordered it on Tuesday and it came Thursday.,Neutral,High,No,Shipping,Timeline report; no sentiment
+26,So comfortable I forgot I was wearing it.,Positive,High,No,Product Comfort,Vivid positive metaphor
+27,Poor build quality. Feels cheap and flimsy.,Negative,High,No,Product Quality,Tactile negative descriptors
+28,The size runs a bit small. I would suggest sizing up.,Neutral,Medium,No,Product Fit,Factual advice; mild complaint but informational tone
+29,Great product but delivery took forever.,Neutral,Medium,No,Product Quality + Shipping,Mixed signals of equal weight; cancels out
+30,Five stars. No complaints whatsoever.,Positive,High,No,Overall Experience,Perfect rating + absence of negatives
+31,Meh. It does what it says but nothing impressive.,Neutral,Medium,No,Product Quality,Dismissive but not negative; meets bare minimum
+32,Absolutely love the material. Feels premium and luxurious.,Positive,High,No,Product Quality,Sensory positive with premium qualifier
+33,I have been using this for three months with zero issues.,Positive,High,No,Product Durability,Durability evidence over time = strong positive
+34,The product stopped working after two uses. Requesting a refund.,Negative,High,No,Product Quality + After-Sales,Failure + action intent = clear negative
+35,Came exactly as described. No surprises.,Positive,Medium,No,Product Accuracy,Matches listing = positive for buyers
+36,Not bad honestly.,Neutral,Medium,No,Overall Experience,Mild informal approval; not enough for positive
+37,This is hands down the best blender I have ever owned.,Positive,High,No,Product Quality,Superlative ownership comparison
+38,Customer service kept me on hold for 45 minutes.,Negative,High,No,Customer Service,Specific evidence of poor service
+39,The laptop weighs 1.5 kg and has 8GB RAM.,Neutral,High,No,Product Features,Spec sheet information; no opinion
+40,Overhyped product. Does not live up to the reviews.,Negative,High,No,Overall Experience + Value for Money,Gap between expectation and reality = negative
+41,Pleasantly surprised by the build quality. Much better than expected.,Positive,High,No,Product Quality,Positive surprise signal
+42,Whatever. It arrived.,Neutral,Medium,No,Shipping,Indifferent; minimal engagement
+43,The return process was smooth and hassle-free.,Positive,High,No,After-Sales,Positive service experience
+44,Colors faded after the first wash. Very disappointed.,Negative,High,No,Product Durability,Post-use failure = strong negative
+45,I think it is okay for occasional use.,Neutral,Medium,No,Product Quality,Hedged lukewarm statement
+46,Superb craftsmanship. You can really tell quality went into this.,Positive,High,No,Product Quality,Craft appreciation = high positive
+47,Screen cracked within a week despite careful handling.,Negative,High,No,Product Durability,Structural failure with context = strong negative
+48,The dimensions are 30x20x10 cm as listed.,Neutral,High,No,Product Features,Pure factual spec
+49,Shipping was delayed by a week with no communication.,Negative,High,No,Shipping + Customer Service,Two failures; logistics + communication
+50,Honestly one of the best purchases I have made online.,Positive,High,No,Overall Experience,Personal superlative = strong positive
+51,Pretty good. Would probably buy again if needed.,Positive,Medium,No,Overall Experience,Mild positive with conditional repurchase
+52,Unbelievably bad. The zipper broke on day one.,Negative,High,No,Product Quality + Durability,Day-one failure = extreme negative
+53,The product is made in China.,Neutral,High,No,Product Origin,Country of origin; no sentiment implied
+54,Great for beginners but advanced users may want more features.,Neutral,Medium,No,Product Features,Segmented opinion; depends on user type
+55,Smells like chemicals straight out of the box. Very off-putting.,Negative,High,No,Product Quality,Sensory negative = product issue
+56,I gifted this to my mom and she absolutely loves it.,Positive,High,No,Overall Experience,Third-party positive reaction reported
+57,Average product. Does the job.,Neutral,High,No,Product Quality,Explicitly average; no lean
+58,The refund was processed in 24 hours. Impressive service.,Positive,High,No,After-Sales,Speed + impressed signal
+59,Product looks nothing like the photos on the listing.,Negative,High,No,Product Accuracy,Expectation vs reality gap = negative
+60,Sure this product is flawless. Already broken after three days.,Negative,High,Yes,Product Durability,Sarcasm confirmed by contradiction
+61,Good quality for the price point.,Positive,Medium,No,Value for Money,Qualified positive; price-aware praise
+62,I use it daily and it has held up really well.,Positive,High,No,Product Durability,Usage frequency + durability = positive
+63,The cord is too short for practical use.,Negative,Medium,No,Product Design,Specific design flaw with impact
+64,Delivery was faster than expected. Really impressed.,Positive,High,No,Shipping,Exceeded expectation = positive
+65,The warranty is 12 months as mentioned on the box.,Neutral,High,No,After-Sales,Factual warranty info; no sentiment
+66,Would not recommend this to anyone. Huge disappointment.,Negative,High,No,Overall Experience,Anti-recommendation = strong negative
+67,Pretty decent for everyday use.,Neutral,Medium,No,Product Quality,Mild approval without enthusiasm
+68,Perfect gift. She cried happy tears when she opened it.,Positive,High,No,Overall Experience,Emotional positive reaction reported
+69,This thing is garbage. Pure and simple.,Negative,High,No,Overall Experience,Blunt emphatic negative
+70,I have mixed feelings. Some things are great others not so much.,Neutral,High,No,Overall Experience,Explicit mixed statement = neutral
+71,Took three weeks to arrive with no tracking updates.,Negative,High,No,Shipping,Long delay + no communication = negative
+72,The motor is surprisingly quiet. Great for late night use.,Positive,High,No,Product Features,Positive surprise on specific feature
+73,It is not the worst thing I have bought.,Neutral,Medium,No,Overall Experience,Faint praise; avoids negative but not positive
+74,Incredibly durable. Still going strong after two years.,Positive,High,No,Product Durability,Long-term durability evidence = strong positive
+75,Charged me twice and still waiting for a refund.,Negative,High,No,After-Sales + Customer Service,Financial harm + unresolved = strong negative
+76,This brand never disappoints. Another great purchase.,Positive,High,No,Brand + Overall Experience,Brand loyalty expression = strong positive
+77,The manual is poorly written and hard to follow.,Negative,Medium,No,Product Features,Documentation failure; functional impact
+78,Setup was quick and the interface is intuitive.,Positive,High,No,Product Usability,Ease-of-use praise = positive
+79,It arrived in a plain brown box.,Neutral,High,No,Packaging,Neutral packaging description
+80,Feels overpriced for what you actually get.,Negative,Medium,No,Value for Money,Price-value mismatch = negative
+81,Works great right out of the box. Zero setup needed.,Positive,High,No,Product Usability,Convenience = positive
+82,The fan is a bit loud but otherwise fine.,Neutral,Medium,No,Product Features,One minor complaint balanced by general approval
+83,I cannot believe how fast this charges. Game changer.,Positive,High,No,Product Features,Surprise + strong impact word
+84,The product melted in the heat. Completely unusable.,Negative,High,No,Product Quality + Durability,Material failure = extreme negative
+85,Solid product. Does exactly what I need.,Positive,Medium,No,Product Quality,Grounded confident positive
+86,It is what it is.,Neutral,High,No,Overall Experience,Dismissive acceptance; no lean
+87,Exceptional quality. Worth every penny.,Positive,High,No,Product Quality + Value for Money,Dual positive on quality and value
+88,Three months in and already showing wear and tear.,Negative,High,No,Product Durability,Time-based durability failure = negative
+89,The smell is overwhelming. Had to air it out for days.,Negative,Medium,No,Product Quality,Sensory issue affecting usability
+90,Looks exactly like the pictures. Fast shipping too.,Positive,High,No,Product Accuracy + Shipping,Dual positive on accuracy and logistics
+91,My third purchase from this brand. Never let me down.,Positive,High,No,Brand + Product Quality,Repeat purchase = strong loyalty signal
+92,The customer rep was rude and unhelpful.,Negative,High,No,Customer Service,Direct behavioral complaint
+93,Arrived on time and in perfect condition.,Positive,High,No,Shipping + Packaging,Dual delivery success = positive
+94,Not sure if I like it yet. Need more time to decide.,Neutral,High,No,Overall Experience,Explicit uncertainty = neutral
+95,Cheap material. Looks okay in photos but feels awful in hand.,Negative,High,No,Product Quality,Photo vs reality gap + tactile negative
+96,The grip is really comfortable during long sessions.,Positive,High,No,Product Comfort,Specific ergonomic praise
+97,Stopped working after exactly 31 days. Right after the return window.,Negative,High,No,Product Durability + After-Sales,Suspicious timing implies designed failure = extreme negative
+98,Good enough I suppose.,Neutral,Medium,No,Overall Experience,Reluctant acceptance; no enthusiasm
+99,This is genuinely the most unreliable product I have ever owned.,Negative,High,No,Product Reliability,Ownership superlative = strong negative
+100,Transformed my morning routine completely. Cannot imagine life without it.,Positive,High,No,Overall Experience,Life-impact language = extremely strong positive
